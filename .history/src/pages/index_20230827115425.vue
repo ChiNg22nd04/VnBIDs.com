@@ -1,0 +1,116 @@
+<template>
+   <div class="m-auto container w-7xl">
+    <header class="pt-10 pb-12 ">
+      <div class="flex justify-between pb-6 border-b">
+        <div class="flex">
+          <a href="#" class="block i-ph:facebook-logo text-[18px] pr-8
+          hover:text-blue-600 "></a>
+          <a href="#" class="block i-ph:instagram-logo text-[18px] pr-8 hover:text-orange-800"></a>
+          <a href="#" class="block i-ph:spotify-logo text-[18px] pr-8
+          hover:text-green-400 "></a>
+
+        </div>
+        <p class="text-3xl hover:text-gray-500 font-extrabold cursor-pointer ">VnBIDs</p>
+        <div class="uppercase text-[10px] font-sans font-bold py-3 px-4 bg-[#f5f5f5] cursor-pointer"><a href="#" class="">subscribe</a></div>
+      </div>
+      <div class="py-4 flex border-b">
+        <div class="flex-1 flex justify-center text-sm leading-200% uppercase">
+          <a href="" class="  px-5 hover:text-gray-500">giới thiệu</a>
+          <a href="" class="  px-5 hover:text-gray-500">sở thích</a>
+          <a href="" class="  px-5 hover:text-gray-500">quan điểm-góc nhìn</a>
+          <a href="" class="  px-5 hover:text-gray-500">công nghệ</a>
+        </div>
+        <div class="inline-block cursor-pointer px-5">
+          <i class="inline-block hover:text-gray-500 i-ph:magnifying-glass"></i>
+          <i class="inline-block hover:text-gray-500 i-ph:moon ml-2"></i>
+        </div>
+
+      </div>
+    </header>
+    <!-- <img src="https://toaitran.com/wp-content/uploads/2023/01/hannah-busing-Zyx1bK9mqmA-unsplash-scaled.jpg" class="h-140 w-full object-cover" /> -->
+    <div class="bg-[url(https://toaitran.com/wp-content/uploads/2023/01/hannah-busing-Zyx1bK9mqmA-unsplash-scaled.jpg)] w-full h-140 bg-cover bg-center relative">
+      <div class="absolute bottom-0 left-0 text-white p-8">
+        <p class="uppercase text-4">nhật kí, công việc</p>
+        <p class="text-12">Được - 2022</p>
+        <ul class="uppercase flex pb-5 justify-center items-center">
+          <li class="">january 29, 2023</li>
+          <div class="w-1 h-1 rounded-full bg-white mx-3"></div>
+          <li class="">january 1, 2022</li>
+        </ul>
+        <div class="uppercase inline-block text-black px-6 py-2 text-3 bg-white">
+          xem bài viết
+        </div>
+
+      </div>
+        
+    </div>
+    <div class="my-32 flex flex-cols-2">
+      <div class="flex flex-cols-2 w-60 flex-1">
+          <div class="bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-80 bg-cover bg-center">
+          </div>
+          <div class="">
+            <p class="uppercase">quan điểm góc nhìn</p>
+            <p class="">Tuột mood thì làm gì?</p>
+            <div class="flex ">
+              <p class="">VnBIDs</p>
+              <p class="uppercase">February 16, 2020</p>
+              <p class="uppercase">no comment</p>
+            </div>
+            <p class="">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…</p>
+          </div>
+      </div>
+      <div class=" flex-2">
+        <a href="" class="">
+          <p class="uppercase">INSTAGRAM</p>
+          <p class="uppercase">INSTAGRAM TRENDING POSTS</p>
+          <div class="flex flex-cols-2">
+            <div class="bg-[url(https://toaitran.com/wp-content/uploads/2023/02/rene-bohmer-YeUVDKZWSZ4-unsplash-scaled-e1675275718719.jpg)] bg-center bg-cover w-full h-30">
+            </div>
+            <div class="">
+              <p class="">công nghệ</p>
+              <p class="">3 giải thích dễ hiểu về ChatGPT</p>
+              <div class="flex">
+                <p class="">VnBIDs</p>
+                <p class="uppercase">january 1, 2022</p>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+      <!-- <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 my-20">
+        <Card  v-for="(item) in data" :title="item.title" :content="item.content"/>
+      </div> -->
+
+
+</template>
+  
+<script setup lang='ts'>
+
+// const data = [
+//   {
+//     title: 'Card 1',
+//   content: 'm ducimus accusantium nemo earum possimus eligendi, et enim facilis. Explicabo molestiae mollitia assumenda voluptates dolor tempora doloribus reprehenderit, ipsum maiores omnis?'
+//   },
+//   {
+//     title: 'Card 2',
+//   content: 'm ducimus accusantium nemo earum possimus eligendi, et enim facilis. Explicabo molestiae mollitia assumenda voluptates dolor tempora doloribus reprehenderit, ipsum maiores omnis?'
+//   },
+//   {
+//     title: 'Card 3',
+//   content: 'm ducimus accusantium nemo earum possimus eligendi, et enim facilis. Explicabo molestiae mollitia assumenda voluptates dolor tempora doloribus reprehenderit, ipsum maiores omnis?'
+//   },
+
+// ]
+
+
+  
+</script>
