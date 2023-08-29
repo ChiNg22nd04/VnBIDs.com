@@ -9,10 +9,8 @@
            <a href="#" class="block i-ph:instagram-logo text-[18px] pr-8 hover:text-orange-800"></a>
            <a href="#" class="block i-ph:spotify-logo text-[18px] pr-8
            hover:text-green-400 "></a>
+ 
          </div>
-         <div class="text-3xl hover:text-gray-500 font-extrabold cursor-pointer">
-          <a href="#" class="">VnBIDs</a>
-        </div>
          <div class="uppercase text-[10px] font-sans font-bold py-3 px-4 bg-[#f5f5f5] cursor-pointer dark:text-black"><a href="#" class="">subscribe</a></div>
        </div>
        <div class="py-4 flex border-b">

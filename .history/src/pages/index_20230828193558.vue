@@ -9,10 +9,8 @@
            <a href="#" class="block i-ph:instagram-logo text-[18px] pr-8 hover:text-orange-800"></a>
            <a href="#" class="block i-ph:spotify-logo text-[18px] pr-8
            hover:text-green-400 "></a>
+ 
          </div>
-         <div class="text-3xl hover:text-gray-500 font-extrabold cursor-pointer">
-          <a href="#" class="">VnBIDs</a>
-        </div>
          <div class="uppercase text-[10px] font-sans font-bold py-3 px-4 bg-[#f5f5f5] cursor-pointer dark:text-black"><a href="#" class="">subscribe</a></div>
        </div>
        <div class="py-4 flex border-b">
@@ -62,7 +60,7 @@
           </ul>
         </nav>
      <!-- <img src="https://toaitran.com/wp-content/uploads/2023/01/hannah-busing-Zyx1bK9mqmA-unsplash-scaled.jpg" class="h-140 w-full object-cover" /> -->
-      <div class="bg-[url(https://toaitran.com/wp-content/uploads/2023/01/hannah-busing-Zyx1bK9mqmA-unsplash-scaled.jpg)] z-10 sm:w-full w-92% mx-auto h-245px md:h-140 bg-cover bg-center relative">
+      <div class="bg-[url(https://toaitran.com/wp-content/uploads/2023/01/hannah-busing-Zyx1bK9mqmA-unsplash-scaled.jpg)] z-10 sm:w-full w-92% mx-auto h-255px md:h-140 bg-cover bg-center relative">
          <div class="absolute bottom-0 left-0 text-white p-8">
            <p class="uppercase text-4">nhật kí, công việc</p>
            <p class="sm:text-12 text-11">Được - 2022</p>
@@ -507,9 +505,9 @@
                  </div>
                </div>
            </div>
-           <div class="md:flex md:flex-cols-2 py-12 border-b lg:w-92% lg:mr-3">
-             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative flex-1">
-               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10 hover:transition-all hover:ease-in-out hover:duration-150 relative group">
+           <div class="md:flex md:flex-cols-2 py-12 border-b md:w-92% md:mr-3">
+             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative">
+               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10   hover:transition-all hover:ease-in-out hover:duration-150 relative group">
                  <a class="hidden group-hover:flex flex-col w-full h-full">
                    <p class="flex justify-center items-center  uppercase text-white text-10px w-full h-full">xem bài viết<i class="block i-carbon:arrow-right ml-2"></i>
                    </p>
@@ -519,7 +517,7 @@
  
                </div>
              </div>
-               <div class="flex justify-between flex-1 flex-col md:mx-5 md:pt-0 pt-5">
+               <div class="flex justify-between flex-col md:mx-5 md:pt-0 pt-5">
                  <div class="">
                    <a href="#" class="block uppercase text-[11px] text-[#333] dark:text-#dbdbdb hover:text-gray-500">
                      quan điểm góc nhìn
@@ -533,7 +531,7 @@
                      <div class="w-[2px] h-[2px] rounded-full bg-black mx-3"></div>
                      <a href="#" class="uppercase hover:text-gray-500">no comment</a>
                    </div>
-                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb xl:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
+                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb md:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
                    </p>
                  </div>
                  <div class="flex mt-5 md:mt-0">
@@ -555,9 +553,9 @@
                  </div>
                </div>
            </div>
-           <div class="md:flex md:flex-cols-2 py-12 border-b lg:w-92% lg:mr-3">
-             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative flex-1">
-               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10 hover:transition-all hover:ease-in-out hover:duration-150 relative group">
+           <div class="md:flex md:flex-cols-2 py-12 border-b md:w-92% md:mr-3">
+             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative">
+               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10   hover:transition-all hover:ease-in-out hover:duration-150 relative group">
                  <a class="hidden group-hover:flex flex-col w-full h-full">
                    <p class="flex justify-center items-center  uppercase text-white text-10px w-full h-full">xem bài viết<i class="block i-carbon:arrow-right ml-2"></i>
                    </p>
@@ -567,7 +565,7 @@
  
                </div>
              </div>
-               <div class="flex justify-between flex-1 flex-col md:mx-5 md:pt-0 pt-5">
+               <div class="flex justify-between flex-col md:mx-5 md:pt-0 pt-5">
                  <div class="">
                    <a href="#" class="block uppercase text-[11px] text-[#333] dark:text-#dbdbdb hover:text-gray-500">
                      quan điểm góc nhìn
@@ -581,7 +579,7 @@
                      <div class="w-[2px] h-[2px] rounded-full bg-black mx-3"></div>
                      <a href="#" class="uppercase hover:text-gray-500">no comment</a>
                    </div>
-                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb xl:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
+                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb md:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
                    </p>
                  </div>
                  <div class="flex mt-5 md:mt-0">
@@ -603,9 +601,9 @@
                  </div>
                </div>
            </div>
-           <div class="md:flex md:flex-cols-2 py-12 border-b lg:w-92% lg:mr-3">
-             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative flex-1">
-               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10 hover:transition-all hover:ease-in-out hover:duration-150 relative group">
+           <div class="md:flex md:flex-cols-2 py-12 border-b md:w-92% md:mr-3">
+             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative">
+               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10   hover:transition-all hover:ease-in-out hover:duration-150 relative group">
                  <a class="hidden group-hover:flex flex-col w-full h-full">
                    <p class="flex justify-center items-center  uppercase text-white text-10px w-full h-full">xem bài viết<i class="block i-carbon:arrow-right ml-2"></i>
                    </p>
@@ -615,7 +613,7 @@
  
                </div>
              </div>
-               <div class="flex justify-between flex-1 flex-col md:mx-5 md:pt-0 pt-5">
+               <div class="flex justify-between flex-col md:mx-5 md:pt-0 pt-5">
                  <div class="">
                    <a href="#" class="block uppercase text-[11px] text-[#333] dark:text-#dbdbdb hover:text-gray-500">
                      quan điểm góc nhìn
@@ -629,7 +627,7 @@
                      <div class="w-[2px] h-[2px] rounded-full bg-black mx-3"></div>
                      <a href="#" class="uppercase hover:text-gray-500">no comment</a>
                    </div>
-                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb xl:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
+                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb md:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
                    </p>
                  </div>
                  <div class="flex mt-5 md:mt-0">
@@ -651,9 +649,9 @@
                  </div>
                </div>
            </div>
-           <div class="md:flex md:flex-cols-2 py-12 border-b lg:w-92% lg:mr-3">
-             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative flex-1">
-               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10 hover:transition-all hover:ease-in-out hover:duration-150 relative group">
+           <div class="md:flex md:flex-cols-2 py-12 border-b md:w-92% md:mr-3">
+             <div href="" class="block bg-[url(https://toaitran.com/wp-content/uploads/2022/10/caleb-fisher-7wdokBOQKGY-unsplash-560x420.jpg)] w-full h-60 bg-cover bg-center mr-5 bg-no-repeat relative">
+               <div class="w-full h-full hover:bg-gray-900 hover:bg-opacity-10   hover:transition-all hover:ease-in-out hover:duration-150 relative group">
                  <a class="hidden group-hover:flex flex-col w-full h-full">
                    <p class="flex justify-center items-center  uppercase text-white text-10px w-full h-full">xem bài viết<i class="block i-carbon:arrow-right ml-2"></i>
                    </p>
@@ -663,7 +661,7 @@
  
                </div>
              </div>
-               <div class="flex justify-between flex-1 flex-col md:mx-5 md:pt-0 pt-5">
+               <div class="flex justify-between flex-col md:mx-5 md:pt-0 pt-5">
                  <div class="">
                    <a href="#" class="block uppercase text-[11px] text-[#333] dark:text-#dbdbdb hover:text-gray-500">
                      quan điểm góc nhìn
@@ -677,7 +675,7 @@
                      <div class="w-[2px] h-[2px] rounded-full bg-black mx-3"></div>
                      <a href="#" class="uppercase hover:text-gray-500">no comment</a>
                    </div>
-                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb xl:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
+                   <p class="text-[14px] leading-6 text-[#333] dark:text-#dbdbdb md:pr-20">Thực sự để viết thành một bài viết hoàn chỉnh về 1 chủ đề nào đó, mình sẽ cần dành rất nhiều thời gian để nghiên cứu, cung cấp thông tin chính xác, khách quan. Đó là lí do mình ít viết về…
                    </p>
                  </div>
                  <div class="flex mt-5 md:mt-0">
